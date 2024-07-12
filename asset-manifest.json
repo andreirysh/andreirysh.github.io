@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96989ecb.css",
+    "main.js": "/static/js/main.85f48c5e.js",
+    "static/media/DiscoverImage.svg": "/static/media/DiscoverImage.f3d01d721c02defbcf52.svg",
+    "static/media/EARTH.svg": "/static/media/EARTH.4dcf37c8c10c5f0494ad5c4ee7f2e1ed.svg",
+    "static/media/FullFillImg.svg": "/static/media/FullFillImg.2a68de58612e9e61adbb.svg",
+    "static/media/RocketIcon.svg": "/static/media/RocketIcon.19faa220be40fd923230bda3123aee1f.svg",
+    "static/media/DreamsImage.svg": "/static/media/DreamsImage.e45facf7130fba39c0e0.svg",
+    "static/media/LatoExtraBold.ttf": "/static/media/LatoExtraBold.0d13f4b5f45c14cf4d3c.ttf",
+    "static/media/Lato.ttf": "/static/media/Lato.b4711c481549fcb8acc7.ttf",
+    "static/media/MoveBordersImage.svg": "/static/media/MoveBordersImage.f646a7b54924d8d35fc2.svg",
+    "static/media/SpaceImage.svg": "/static/media/SpaceImage.7811fd44c1f42d6a2417.svg",
+    "static/media/MainLogo.svg": "/static/media/MainLogo.f4153131d3955bdfa609912a9f3b5caf.svg",
+    "static/media/CardIcon.svg": "/static/media/CardIcon.b697889a2021dbe00a30dd5ff69f0034.svg",
+    "static/media/menu.svg": "/static/media/menu.6839994c70d8fa1e2451eb481ca217d5.svg",
+    "index.html": "/index.html",
+    "main.96989ecb.css.map": "/static/css/main.96989ecb.css.map",
+    "main.85f48c5e.js.map": "/static/js/main.85f48c5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96989ecb.css",
+    "static/js/main.85f48c5e.js"
+  ]
+}
